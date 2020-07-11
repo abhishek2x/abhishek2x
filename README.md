@@ -7,7 +7,7 @@ Being a developer of various Technical Forums and Connecting platforms, I have b
 I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal. 
       
 
-- 💬 **Ask me about anything and everything !! **
+- 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => https://portfolio.abhisheksrivastava.me/
 - 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/abhishek-srivastava-49482a190/ 
 - ✍ View my **Blogs** here => https://medium.com/@abhishek2x/ 
