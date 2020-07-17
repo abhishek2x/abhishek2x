@@ -19,7 +19,8 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
  <p>
   <a href="https://www.linkedin.com/in/abhishek-srivastava-49482a190/">
     <img src="https://img.shields.io/badge/Abhishek-Srivastava-386938188?style=flat&logo=linkedin">
-  </a> &nbsp; 
+  </a>
+ 
  <a href="https://medium.com/@abhishek2x/">
     <img src="https://img.shields.io/badge/abhishek2x-30302f?style=flat&logo=medium">
   </a>
