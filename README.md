@@ -1,4 +1,4 @@
-### Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** 
 
@@ -26,4 +26,4 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
   </a>
 </p>
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek2x&show_icons=true&hide_border=True)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek2x&show_icons=true&theme=radical&hide_border=True)
