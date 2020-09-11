@@ -2,7 +2,7 @@
 
 **ABOUT ME** 
 
-I am an *Entrepreneur* by nature and a *developer* by passion, a tech enthusiast, open-source contributor, tech blogger, writer, motivator and mentor for those who want to learn programming, development and recent technologies.
+I am an *Entrepreneur* by nature and a *developer* by passion, a tech enthusiast, an open-source contributor, tech blogger, writer, motivator and mentor for those who want to learn programming, development and recent technologies.
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
 I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal. 
 
@@ -12,7 +12,7 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => <a href="https://portfolio.abhisheksrivastava.me/">Portfolio</a>
-- 💬 Connect with on <a href="https://www.linkedin.com/in/abhishek-srivastava-49482a190/">Linkedin</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/abhishek-srivastava-49482a190/">Linkedin</a>
 - ✍ View my <a href="https://medium.com/@abhishek2x/">Medium Page</a>
 - 📫 **Reach** me here => abhisheksrivastavabbn@gmail.com 
 
