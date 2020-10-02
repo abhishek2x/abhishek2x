@@ -27,3 +27,4 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 </p>
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek2x&show_icons=true&hide_border=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2x&hide=TeX&layout=compact&icon_color=824DA6)
