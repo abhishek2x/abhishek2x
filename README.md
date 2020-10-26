@@ -22,7 +22,8 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 Talk to me about
 - Front-end development using **React.js**
 - Backend development using **Python Django**
-- Robust full-stack system design implementation
+- Functional programming with **JavaScript**
+- Robust **full-stack system design** implementation
 - Mobile application development using **React Native**
 - Creating scalable cloud architecture using **Heroku**
 - Solving Data structure and algorithm questions in **C++**
