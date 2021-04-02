@@ -16,8 +16,10 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 
 ## 👯 Communities
 * Community Lead **@DSC VIT Bhopal**
+* Mentor **@GSSoC**
 * Google Cloud Facilitator **@VIT Bhopal**
 * MSP **@Microsoft Learn Ambassador**
+* Mentor **@StudentCode-in**
 
 ## ⚡ Technologies
 Talk to me about
