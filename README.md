@@ -38,9 +38,12 @@ Talk to me about
 - ✍ View my <a href="https://medium.com/@abhishek2x/">Medium Page</a>
 - 📫 **Reach** me here => abhisheksrivastavabbn@gmail.com 
 
-<hr>
+<hr/>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=abhishek2x&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek2x"/>|
+## 📈 MY STATS
+
+
+|<img src="https://github-readme-stats.vercel.app/api?username=abhishek2x&&show_icons=true&count_private=true"/>|[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek2x&theme=react-dark)](https://github.com/abhishek2x/github-readme-activity-graph)|
 |---|---|
 
 ⭐️ From [abhishek2x](https://github.com/abhishek2x)
