@@ -1,10 +1,10 @@
 ## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-**ABOUT ME** 
+**ABOUT ME**
 
-I am an *Entrepreneur* by nature and a *developer* by passion, a tech enthusiast, an open-source contributor, tech blogger, writer, motivator and mentor for those who want to learn programming, development and recent technologies.
-Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
-I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal. 
+I am an _Entrepreneur_ by nature and a _developer_ by passion, a tech enthusiast, an open-source contributor, tech blogger, writer, motivator and mentor for those who want to learn programming, development and recent technologies.
+Being a developer of various Technical Forums and Connecting platforms, I have been contributing _to make the youth of this world well versed with programming_.
+I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vellore Institute of Technology, Bhopal.
 
 ## '' Having an urge to learn and Improve
 
@@ -15,14 +15,17 @@ I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vello
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 ## 👯 Communities
-* Community Lead **@DSC VIT Bhopal**
-* Mentor **@GSSoC**
-* Google Cloud Facilitator **@VIT Bhopal**
-* MSP **@Microsoft Learn Ambassador**
-* Mentor **@StudentCode-in**
+
+- Community Lead **@DSC VIT Bhopal**
+- Mentor **@GSSoC**
+- Google Cloud Facilitator **@VIT Bhopal**
+- MSP **@Microsoft Learn Ambassador**
+- Mentor **@StudentCode-in**
 
 ## ⚡ Technologies
+
 Talk to me about
+
 - Front-end development using **React.js**
 - Backend development using **Python Django**
 - Functional programming with **JavaScript**
@@ -32,18 +35,30 @@ Talk to me about
 - Solving Data structure and algorithm questions in **C++**
 
 ## Hello World!! ⭐️
-- 💬 Ask me about anything and everything !! 
+
+- 💬 Ask me about anything and everything !!
 - 👨🏻‍💻 View my **Website** here => <a href="https://portfolio.abhisheksrivastava.me/">Portfolio</a>
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/abhishek-srivastava-49482a190/">Linkedin</a>
 - ✍ View my <a href="https://medium.com/@abhishek2x/">Medium Page</a>
-- 📫 **Reach** me here => abhisheksrivastavabbn@gmail.com 
+- 📫 **Reach** me here => abhisheksrivastavabbn@gmail.com
 
-<hr/>
+---
 
 ## 📈 MY STATS
 
+<br/>
+<br/>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=abhishek2x&&show_icons=true&count_private=true"/>|[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek2x&theme=react-dark)](https://github.com/abhishek2x/github-readme-activity-graph)|
-|---|---|
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek2x&theme=xcode)](https://git.io/abhishek2x)
+
+<br/>
+<br/>
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api/?username=abhishek2x&theme=prussian&show_icons=true&count_private=true)
+
+<br />
+<br />
+
+![Metrics](https://metrics.lecoq.io/abhishek2x?template=classic&repositories=100&isocalendar=1&lines=1&gists=1&introduction=1&skyline=1&nightscout=1&isocalendar.duration=full-year&introduction.title=true&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FCalcutta)
 
 ⭐️ From [abhishek2x](https://github.com/abhishek2x)
