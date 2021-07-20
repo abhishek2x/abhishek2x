@@ -12,7 +12,7 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-abhisheksrivastavabbn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhisheksrivastavabbn@gmail.com)](mailto:abhisheksrivastavabbn@gmail.com)
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" /> -->
 
 ## 👯 Communities
 
