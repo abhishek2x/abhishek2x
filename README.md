@@ -1,4 +1,4 @@
-## Hey, I'm Abhisehk <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 👨‍💻 ![](https://komarev.com/ghpvc/?username=abhishek2x&label=Views)
+## Hey, I'm Abhishek <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 👨‍💻 ![](https://komarev.com/ghpvc/?username=abhishek2x&label=Views)
 
 **ABOUT ME**
 
@@ -61,7 +61,7 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 ---
 
 <details>	
-  <summary><b>## 📈 MY STATS</b></summary>
+  <summary><b>📈 MY STATS</b></summary>
   
 
 <br/>
