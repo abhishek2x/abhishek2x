@@ -1,4 +1,4 @@
-## Hey, I'm Abhishek <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 👨‍💻 ![](https://komarev.com/ghpvc/?username=abhishek2x&label=Views)
+## Hey, I'm Abhishek
 
 **ABOUT ME**
 
