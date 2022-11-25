@@ -6,7 +6,6 @@ I am an _Entrepreneur_ by nature and a _developer_ by passion, a tech enthusiast
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing _to make the youth of this world well versed with programming_.
 I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vellore Institute of Technology, Bhopal.
 
-## '' Having an urge to learn and Improve
 
 [![Twitter Badge](https://img.shields.io/badge/-@abhishek2x-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abhishe51428266)](https://twitter.com/Abhishe51428266) [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-srivastava-49482a190/)](https://www.linkedin.com/in/abhishek-srivastava-49482a190/) [![Medium Badge](https://img.shields.io/badge/-@abhishek2x-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishek2x/)](https://medium.com/@abhishek2x)
 </br>
