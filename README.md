@@ -14,7 +14,8 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 
 ## 👯 Communities
 
-- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
+- Software Engineer at **[JP Morgan Chase & Co.](https://jpmorgan.com/)**
+- Computer Science Engineering at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 - Former SDE Intern at **[Songdew](https://songdew.com/)**
 - Founder and Former Community Lead **[DSC VIT Bhopal](https://dsc.community.dev/vellore-institute-of-technology-bhopal/)**
 - Google Cloud Facilitator **@VIT Bhopal**
