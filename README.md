@@ -2,9 +2,18 @@
 
 **ABOUT ME**
 
-I am an _Entrepreneur_ by nature and a _developer_ by passion, a tech enthusiast, an open-source contributor, tech blogger, writer, motivator and mentor for those who want to learn programming, development and recent technologies.
-Being a developer of various Technical Forums and Connecting platforms, I have been contributing _to make the youth of this world well versed with programming_.
-I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vellore Institute of Technology, Bhopal.
+I’m a software engineer at JPMorgan Chase, building large-scale systems for corporate and investment banking where performance, reliability, and correctness are non-negotiable.
+
+My work focuses on backend and distributed systems. I’ve helped design and scale core trading and risk platforms, driving major improvements in performance, stability, and throughput. A recurring theme in my work is taking slow, fragile systems and turning them into fast, resilient ones through better architecture, parallelization, and infrastructure modernization.
+
+I’ve also led efforts to move critical platforms to cloud and managed infrastructure, improving reliability, security, and scalability. Several of the systems I’ve worked on process high-volume financial data in real time and support end-to-end workflows used daily by global teams.
+
+Before finance, I worked in startup and product teams, building full-stack systems that reached hundreds of thousands of users. I’ve taken products from early idea to production, working closely with product, design, and engineering.
+
+I’m active in the tech community. I’ve been a Microsoft Learn Student Ambassador, Google Developer Student Club Lead, and mentor in national coding programs. I’ve built large student communities, led dozens of technical events, contributed to open source, and write about engineering on Medium (@abhishek2x).
+
+I’m drawn to hard problems—scale, performance, and systems that must work under real pressure. I like building things that last and improving systems that matter.
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@abhishek2x-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abhishe51428266)](https://twitter.com/Abhishe51428266) [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-srivastava-49482a190/)](https://www.linkedin.com/in/abhishek-srivastava-49482a190/) [![Medium Badge](https://img.shields.io/badge/-@abhishek2x-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishek2x/)](https://medium.com/@abhishek2x)
